@@ -34,4 +34,5 @@ int main()
         }
         cout << numeroAlrevez;
     }
+     cout << "Krhistopher Alexander Siguenza Piedrasanta " << "1517221" << endl;
 }
